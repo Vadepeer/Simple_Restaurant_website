@@ -47,3 +47,5 @@ Home: Introduction and overview of the restaurant.
 Menu: Detailed list of dishes offered by the restaurant.
 About: Information about the restaurant's history and mission.
 Contact: Contact form and location details.
+
+-->You can see webite here: https://vadepeer.github.io/Simple_Restaurant_website/#
